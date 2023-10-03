@@ -1,10 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to Xrayto3D-benchmark's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Xrayto3DShape-benchmark** is a pytorch-based Python package for extensive benchmarking for Biplanar X-ray to 3D Shape Reconstruction. We aim to become a comprehensive benchmarking tool for developing and evaluating architectures specific to this problem. Currently, we provide tools to train and evaluate on 4 different bone anatomies using 6 publicly available datasets. We also define clinically relevant evaluation tasks such as domain shifts to evaluate the robustness of these methods. Currently, various Encoder-Decoder Architectures on volumetric grid-based representation are reimplemented and benchmarked. 
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
@@ -18,5 +15,6 @@ Contents
 
 .. toctree::
 
+   datasets
    usage
    api

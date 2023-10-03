@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'xrayto3d-benchmark'
+copyright = '2023, Nepal Applied Mathematics and Informatics Institute for research (NAAMII)'
+author = 'Mahesh Shakya'
 
 release = '0.1'
 version = '0.1.0'
